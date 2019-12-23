@@ -20,6 +20,7 @@
   "homepage": "https://github.com/yayitax/restful-web-node-express#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "mongoose": "^5.8.3",
     "nodemon": "^2.0.2"
   },
   "devDependencies": {
